@@ -42,6 +42,8 @@
     * 开源：https://github.com/RQNG/WoW-UI
 
   硬件连接
+  
+### 开发环境配置：VS Code + PlatformIO
 
 #### 0.合宙版ESP32-C3简约版
 
