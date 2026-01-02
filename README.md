@@ -40,10 +40,10 @@
 
     * 作者：B站用户名：音游玩的人
     * 开源：https://github.com/RQNG/WoW-UI
-
-  硬件连接
   
 ### 开发环境配置：VS Code + PlatformIO
+
+### 硬件连接
 
 #### 0.合宙版ESP32-C3简约版
 
